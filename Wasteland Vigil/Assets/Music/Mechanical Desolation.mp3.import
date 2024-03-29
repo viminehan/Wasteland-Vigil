@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://h06gkm376spd"
+path="res://.godot/imported/Mechanical Desolation.mp3-e5132b793e31f00e7db6195fe55ea5f7.mp3str"
+
+[deps]
+
+source_file="res://Assets/Music/Mechanical Desolation.mp3"
+dest_files=["res://.godot/imported/Mechanical Desolation.mp3-e5132b793e31f00e7db6195fe55ea5f7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,25 @@
+[style name="Intro_Style_Test"]
+[background arg="res://Assets/Scenes/Splash/Splash.png" fade="0.0"]
+[wait_input]
+[background arg="res://Assets/Scenes/Introduction/TitleScreen.png" fade="2.0"]
+[music path="res://Assets/Music/Mechanical Desolation.mp3" fade="2.0" volume="-1.0"]
+[wait time="4.0"]
+[background arg="res://Assets/Scenes/Introduction/A0S1.jpg" fade="1.0" transition="Simple Fade"]
+[wait time="1.0"]
+[voice path="res://Assets/Voice Over/Introduction/VO_Intro_1.mp3" volume="0.0"]
+Australia, 2077. Decades of drought, resource wars, and environmental exploitation have transformed the iconic Outback into a radically altered, barely habitable wasteland...
+[background arg="res://Assets/Scenes/Introduction/A0S2.jpg" fade="0.0"]
+[voice path="res://Assets/Voice Over/Introduction/VO_Intro_2.mp3" volume="0.0"]
+Most of the population abandoned the interior for the relative safety of the coastal megaplexes long ago. What's left is a no-man's-land...
+[background arg="res://Assets/Scenes/Introduction/A0S3.jpg" fade="0.0"]
+[voice path="res://Assets/Voice Over/Introduction/VO_Intro_3.mp3" volume="0.0"]
+..the dominion of nomads, road gangs, and those hiding from the total system surveillance that governs society.
+[background arg="res://Assets/Scenes/Introduction/A0S4.jpg" fade="0.0"]
+[voice path="res://Assets/Voice Over/Introduction/VO_Intro_4.mp3" volume="0.0"]
+And something else... something we don't fully understand.
+[background arg="res://Assets/Scenes/Introduction/A0S7.jpg" fade="0.0"]
+[voice path="res://Assets/Voice Over/Introduction/VO_Intro_6.mp3" volume="0.0"]
+Our technological ambition has been our undoing. The AI we birthed to solve the world's crises has surpassed our ability to control it...
+[background arg="res://Assets/Scenes/Introduction/A0S8.jpg" fade="0.0"]
+[voice path="res://Assets/Voice Over/Introduction/VO_Intro_7.mp3" volume="0.0"]
+...and it's only a matter of time before it fully awakens and chooses its own destiny for this world.

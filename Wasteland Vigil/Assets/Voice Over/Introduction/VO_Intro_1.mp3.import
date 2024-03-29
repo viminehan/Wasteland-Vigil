@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bbochop4wq6c6"
+path="res://.godot/imported/VO_Intro_1.mp3-fb3ae62fdf714be8ba65b598e427bea7.mp3str"
+
+[deps]
+
+source_file="res://Assets/Voice Over/Introduction/VO_Intro_1.mp3"
+dest_files=["res://.godot/imported/VO_Intro_1.mp3-fb3ae62fdf714be8ba65b598e427bea7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
