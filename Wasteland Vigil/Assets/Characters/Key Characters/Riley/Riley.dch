@@ -1,0 +1,101 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"_translation_id": "",
+"color": Color(1, 1, 1, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": ""
+},
+"default_portrait": "Riley - Neutral",
+"description": "Main Character",
+"display_name": "Riley",
+"mirror": false,
+"nicknames": ["Riley"],
+"offset": Vector2(0, 0),
+"portraits": {
+"Riley - Concerned": {
+"export_overrides": {
+"image": "\"res://Assets/Characters/Key Characters/Riley/Riley - Concerned.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Riley - Despaired": {
+"export_overrides": {
+"image": "\"res://Assets/Characters/Key Characters/Riley/Riley - Despaired.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Riley - Determined": {
+"export_overrides": {
+"image": "\"res://Assets/Characters/Key Characters/Riley/Riley - Determined.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Riley - Injured": {
+"export_overrides": {
+"image": "\"res://Assets/Characters/Key Characters/Riley/Riley - Injured.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Riley - Neutral": {
+"export_overrides": {
+"image": "\"res://Assets/Characters/Key Characters/Riley/Riley - Neutral.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Riley - Reading Data": {
+"export_overrides": {
+"image": "\"res://Assets/Characters/Key Characters/Riley/Riley - Reading Data.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Riley - Satisfied": {
+"export_overrides": {
+"image": "\"res://Assets/Characters/Key Characters/Riley/Riley - Satisfied.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Riley - Thinking": {
+"export_overrides": {
+"image": "\"res://Assets/Characters/Key Characters/Riley/Riley - Thinking.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Riley - Troubled": {
+"export_overrides": {
+"image": "\"res://Assets/Characters/Key Characters/Riley/Riley - Troubled.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}

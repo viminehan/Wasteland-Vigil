@@ -1,5 +1,6 @@
 [style name="Intro_Style_Test"]
 [background arg="res://Assets/Scenes/Splash/Splash.png" fade="0.0"]
+[music path="res://Assets/Music/Wasted City.mp3" fade="0.0" volume="0.0"]
 [wait_input]
 [background arg="res://Assets/Scenes/Introduction/TitleScreen.png" fade="2.0"]
 [music path="res://Assets/Music/Mechanical Desolation.mp3" fade="2.0" volume="-1.0"]

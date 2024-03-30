@@ -1,0 +1,8 @@
+[background arg="res://Assets/Scenes/Act 1/A1S1.png" fade="0.0"]
+join Riley 1
+join Vigil 3 [animation="Slide In Right"]
+Vigil: Anomaly detected. Rogue AI entity exhibiting erratic behavior patterns 82 kilometers northeast.
+update Riley (Riley - Reading Data)
+[wait time="2.0"]
+update Riley (Riley - Concerned)
+[wait_input]

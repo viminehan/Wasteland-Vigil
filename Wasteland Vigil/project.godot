@@ -21,8 +21,13 @@ Dialogic="*res://addons/dialogic/Core/DialogicGameHandler.gd"
 
 [dialogic]
 
-directories/dch_directory={}
+directories/dch_directory={
+"Riley": "res://Assets/Characters/Key Characters/Riley/Riley.dch",
+"Vigil": "res://Assets/Characters/Key Characters/Vigil/Vigil.dch",
+"character": "res://Assets/Characters/Key Characters/Vigil/character.dch"
+}
 directories/dtl_directory={
+"Act1Timeline": "res://Act1Timeline.dtl",
 "introductionTimeline": "res://introductionTimeline.dtl"
 }
 glossary/default_case_sensitive=true
